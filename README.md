@@ -10,13 +10,13 @@
 📚 Currently taking the [ProgramadorBR Web Full Stack course](https://programadorbr.com)
 
 ___
-
+<!--
 ### My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanserafim)](https://github.com/jhonatanserafim/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanserafim)](https://github.com/jhonatanserafim/github-readme-stats)
 
-
+-->
 
 ### Find me elsewhere 🌎
 
