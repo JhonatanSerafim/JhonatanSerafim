@@ -1,14 +1,14 @@
 ### Hey, I'm Serafim 👋
-
-:technologist: VP of Developer Experience at @WorkOS
-Web Developer at (CTA Eletrônica)[www.ctaeletronica.com.br]
+<br/><br/>
+:technologist: Web Developer at (CTA Eletrônica)[www.ctaeletronica.com.br]
 🇧🇷 Born in OZasco, Brazil
-
+<br/><br/>
 What I'm working on 👨‍💻
+<br/>
 :office: Currently optimizing and developing improvements in CTA Eletrônica's EAD platform;
 :office: Desenvolvedor apoiador da (Serafini Travels) [https://serafinitravels.com.br/]
 📚 Currently taking the (ProgramadorBR Web Full Stack course)[https://programadorbr.com/].
-
+<br/><br/>
 Find me elsewhere 🌎
 <!--🚀 (Site)[] -->
 📸 (Instagram)[https://www.instagram.com/jhonatanserafim]
