@@ -9,6 +9,13 @@
 :office: Supporting developer of [Serafini Travels](https://serafinitravels.com.br) <br>
 📚 Currently taking the [ProgramadorBR Web Full Stack course](https://programadorbr.com)
 
+### My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanserafim)](https://github.com/jhonatanserafim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanserafim)](https://github.com/jhonatanserafim/github-readme-stats)
+
+
+
 ### Find me elsewhere 🌎
 
 <!--🚀 (Site)[]<br> -->
