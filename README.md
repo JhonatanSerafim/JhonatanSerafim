@@ -5,8 +5,8 @@
 
 ### What I'm working on 👨‍💻
 
-:office: Currently optimizing and developing improvements in CTA Eletrônica's EAD platform;<br>
-:office: Supporting developer of [Serafini Travels] (https://serafinitravels.com.br);<br>
+:office: Currently optimizing and developing improvements in CTA Eletrônica's EAD platform <br>
+:office: Supporting developer of [Serafini Travels] (https://serafinitravels.com.br) <br>
 📚 Currently taking the [ProgramadorBR Web Full Stack course](https://programadorbr.com)
 
 ### Find me elsewhere 🌎
