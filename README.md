@@ -1,6 +1,6 @@
 ### Hey, I'm Serafim! 👋
 
-:technologist: Web Developer at [CTA Eletrônica](www.ctaeletronica.com.br) <br>
+:technologist: Web Developer at [DevSerafim](www.devserafim.com.br) <br>
 🇧🇷 Born in OZasco, Brazil <br>
 
 ### What I'm working on 👨‍💻
