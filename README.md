@@ -7,7 +7,7 @@
 
 :office: Currently optimizing and developing improvements in CTA Eletrônica EAD platform <br>
 :office: Supporting developer of [Serafini Travels](https://serafinitravels.com.br) <br>
-📚 Currently taking the [Analysis and systems developmen]([https://www.fiap.com.br/]
+📚 Currently taking the [Analysis and systems developmen](https://www.fiap.com.br/)
 
 ___
 <!--
