@@ -5,7 +5,6 @@
 
 ### What I'm working on 👨‍💻
 
-:office: Currently optimizing and developing improvements in CTA Eletrônica EAD platform <br>
 :office: Supporting developer of [Serafini Travels](https://serafinitravels.com.br) <br>
 📚 Currently taking the Analysis and systems developmen  in [FIAP](https://www.fiap.com.br/)
 
