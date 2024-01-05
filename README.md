@@ -6,7 +6,7 @@
 ### What I'm working on 👨‍💻
 
 :office: Supporting developer of [Serafini Travels](https://serafinitravels.com.br) <br>
-📚 Currently taking the Analysis and systems developmen  in [FIAP](https://www.fiap.com.br/)
+📚 Analysis and systems developmen  in [FIAP](https://www.fiap.com.br/)
 
 ___
 <!--
