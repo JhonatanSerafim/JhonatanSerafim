@@ -1,6 +1,6 @@
 ### Hey, I'm Serafim! 👋
 
-:technologist: Web Developer at [DevSerafim](www.devserafim.com.br](https://jhonatanserafim.github.io/serafim/) <br>
+:technologist: Web Developer at [DevSerafim](https://jhonatanserafim.github.io/serafim/) <br>
 🇧🇷 Born in OZasco, Brazil <br>
 
 ### What I'm working on 👨‍💻
