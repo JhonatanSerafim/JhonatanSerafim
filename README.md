@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Github Stats
+### Minhas Estatísticas do GitHub
+
+[![Estatísticas do JhonatanSerafim no GitHub](https://github-readme-stats.vercel.app/api?username=JhonatanSerafim&show_icons=true&theme=dark&rank_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+
