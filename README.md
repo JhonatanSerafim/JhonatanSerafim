@@ -1,45 +1,45 @@
-### Hey, I'm Serafim! 👋
+## Hey, I'm Jhonatan Serafim 👋
 
-:technologist: Web Developer at [DevSerafim](https://jhonatanserafim.github.io/serafim/) <br>
-🇧🇷 Born in OZasco, Brazil <br>
+💻 Fullstack Developer focused on JavaScript ecosystem (React, Next.js, Node, Vue)  
+☕ Currently deep diving into Java, AWS and backend architecture  
+🎓 Programming Instructor with 5+ years helping students build real-world projects  
+🚀 Building scalable applications and APIs with clean architecture principles  
 
-### What I'm working on 👨‍💻
+---
 
-:office: Supporting developer of [Serafini Travels](https://serafinitravels.com.br) <br>
-📚 Analysis and systems developmen  in [FIAP](https://www.fiap.com.br/)
+## 🧠 What I’m focused on right now
 
-___
-<!--
-### My Stats
+- Strengthening backend skills with Java + Spring
+- Cloud architecture fundamentals (AWS)
+- RESTful APIs and system design
+- Financial and productivity-focused side projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanserafim)](https://github.com/jhonatanserafim/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanserafim)](https://github.com/jhonatanserafim/github-readme-stats)
+---
 
--->
+## 🛠 Tech Stack
 
-### Find me elsewhere 🌎
+**Frontend:** React, Next.js, Vue, Tailwind  
+**Backend:** Node.js, Express, PostgreSQL  
+**Currently learning:** Java, Spring Boot, AWS  
+**Concepts:** Clean Code, REST APIs, Design Systems, Agile Metrics  
 
-<!--🚀 (Site)[]<br> -->
-📸 [Instagram](https://www.instagram.com/jhonatanserafim)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/jhonatan-serafim/)<br>
+---
 
-<!--
-**JhonatanSerafim/JhonatanSerafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Professional Goal
 
-Here are some ideas to get you started:
+Transitioning into strong backend-focused roles while maintaining fullstack versatility.  
+Looking for opportunities to build impactful systems and grow in scalable architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-#### Github Stats
-### Minhas Estatísticas do GitHub
+## 🌎 Find me elsewhere
 
-[![Estatísticas do JhonatanSerafim no GitHub](https://github-readme-stats.vercel.app/api?username=JhonatanSerafim&show_icons=true&theme=dark&rank_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+💼 LinkedIn: https://www.linkedin.com/in/jhonatan-serafim/  
+📸 Instagram: https://www.instagram.com/jhonatanserafim  
+🌐 Portfolio: https://jhonatanserafim.github.io/serafim/
 
+---
+
+### GitHub Stats
+
+[![Jhonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanSerafim&show_icons=true&theme=dark&rank_icon=true)](https://github.com/anuraghazra/github-readme-stats)
