@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente estudando **Storybook, Design Systems e performance frontend**
-- ☁️ Aprofundando conhecimentos em **arquitetura frontend e integração com APIs**
+- ☁️ Aprofundando conhecimentos em **arquitetura frontend e Design Engineering**
 - 🧠 Evoluindo em **System Design e boas práticas de frontend escalável**
 - 💡 Criando interfaces que unem **UX/UI, regras de negócio e integração com backend**
 
