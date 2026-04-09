@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Jhonatan Serafim
+## 👋 Olá, eu sou o Jhonatan Serafim - DevSerafim (O Estudante Frontend)
 
 💻 **Frontend Developer** focado no ecossistema JavaScript  
 🎯 Evoluindo como especialista em **Frontend moderno (React, performance, arquitetura e UX)**  
