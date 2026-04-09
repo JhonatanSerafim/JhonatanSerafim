@@ -1,18 +1,18 @@
 ## 👋 Olá, eu sou o Jhonatan Serafim
 
 💻 **Frontend Developer** focado no ecossistema JavaScript  
-☕ Em evolução para **Backend com Java + AWS**  
+🎯 Evoluindo como especialista em **Frontend moderno (React, performance, arquitetura e UX)**  
 🎓 Instrutor de programação com +5 anos criando projetos reais  
-🚀 Apaixonado por construir sistemas escaláveis e bem estruturados  
+🚀 Apaixonado por construir interfaces escaláveis, performáticas e bem estruturadas  
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estudando **Java + Spring Boot**
-- ☁️ Aprendendo **Cloud (AWS)**
-- 🧠 Evoluindo em **System Design e APIs REST**
-- 💡 Criando projetos com foco em **finanças e produtividade**
+- 🔭 Atualmente estudando **Storybook, Design Systems e performance frontend**
+- ☁️ Aprofundando conhecimentos em **arquitetura frontend e integração com APIs**
+- 🧠 Evoluindo em **System Design e boas práticas de frontend escalável**
+- 💡 Criando interfaces que unem **UX/UI, regras de negócio e integração com backend**
 
 ---
 
@@ -30,9 +30,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 ### 📚 Estudando agora
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
+![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook)
+![Design Systems](https://img.shields.io/badge/-Design%20Systems-000)
+![Performance](https://img.shields.io/badge/-Web%20Performance-000)
+![Testing](https://img.shields.io/badge/-Testing-000)
 
 ---
 
@@ -41,13 +42,14 @@
 ✨ Clean Code  
 🔗 APIs REST  
 🎨 Design Systems  
+⚡ Performance Web  
 📊 Métricas Ágeis  
 
 ---
 
 ## 🎯 Objetivo
 
-> Evoluir para posições com maior foco em **backend**, sem perder a versatilidade fullstack, contribuindo na construção de sistemas escaláveis e de alto impacto.
+> Crescer como desenvolvedor frontend focado nas demandas mais atuais do mercado, como **performance, arquitetura de aplicações, design systems e experiência do usuário**, contribuindo na construção de interfaces escaláveis e de alto impacto.
 
 ---
 
