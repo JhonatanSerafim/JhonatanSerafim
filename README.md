@@ -33,17 +33,7 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook)
 ![Design Systems](https://img.shields.io/badge/-Design%20Systems-000)
 ![Performance](https://img.shields.io/badge/-Web%20Performance-000)
-![Testing](https://img.shields.io/badge/-Testing-000)
-
----
-
-## 🧠 Conceitos
-
-✨ Clean Code  
-🔗 APIs REST  
-🎨 Design Systems  
-⚡ Performance Web  
-📊 Métricas Ágeis  
+![Testing](https://img.shields.io/badge/-Testing-000) 
 
 ---
 
