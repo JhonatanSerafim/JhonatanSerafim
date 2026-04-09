@@ -1,6 +1,6 @@
 ## Hey, I'm Jhonatan Serafim 👋
 
-💻 Fullstack Developer focused on JavaScript ecosystem (React, Next.js, Node, Vue)  
+💻 Frontend Developer focused on JavaScript ecosystem (React, Next.js, Node, Vue)  
 ☕ Currently deep diving into Java, AWS and backend architecture  
 🎓 Programming Instructor with 5+ years helping students build real-world projects  
 🚀 Building scalable applications and APIs with clean architecture principles  
