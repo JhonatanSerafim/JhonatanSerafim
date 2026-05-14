@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Jhonatan Serafim - DevSerafim
 
 💻 **Frontend Developer** focado no ecossistema JavaScript  
-🎯 Evoluindo como especialista em **Frontend moderno (React, performance, arquitetura e UX)**  
+🎯 Evoluindo como especialista em **Frontend moderno (Acessibilidade, performance, arquitetura e UX)**  
 🎓 Instrutor de programação com +5 anos criando projetos reais  
 🚀 Apaixonado por construir interfaces escaláveis, performáticas e bem estruturadas  
 
