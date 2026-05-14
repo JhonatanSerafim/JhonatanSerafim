@@ -51,12 +51,6 @@
 
 ---
 
-## 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JhonatanSerafim&theme=radical)
-
----
-
 ## ✨ Frase que me define
 
 > "Aprender continuamente, evoluir todos os dias e transformar conhecimento em soluções reais."
